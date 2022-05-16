@@ -11,7 +11,7 @@ function Sidebar() {
     <Container>
       <ProfileContainer>
         <Avatar src={AvatarImage} />
-        <Name>Kishan Sheth</Name>
+        <Name>shreedhar</Name>
         <Badge content="Pro Level" />
       </ProfileContainer>
       <LinksContainer>
